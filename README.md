@@ -78,15 +78,6 @@ walls, S means start location, E means end location.
 ![p3](https://user-images.githubusercontent.com/32989239/74086027-1669cd00-4a90-11ea-88bf-aef4e38666c5.png)
 
 
-Start with the provided maze examples and try to create a searching algorithm that takes the agent from S
-to E. There are literally hundreds of search algorithms you can find online that can work in this
-homework. Choose one and implement it as your searching algorithm. You’ll choose your own algorithm
-so I expect to see different search algorithms in different homeworks. If everyone implements the same
-algorithm that means something inappropriate is going on. You can implement the breadth first search
-[1], Q learning [2], A* algorithm [3], Dijsktra’s algorithm [4] or you can use a simple brute force
-algorithm. Searching algorithm choice is up to you, just don’t use a 3rd party library. After searching, your
-algorithm should output the path it found (It doesn’t need to find the shortest path).
-
 
 
 
