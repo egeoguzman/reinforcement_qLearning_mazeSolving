@@ -30,6 +30,10 @@ location. Locations are held in cell_tuple structure which are simple tuple stru
 coordinates of a cell.
 
 Cell_tuple = (x_coordinate, y_coordinate)
+![p1](https://user-images.githubusercontent.com/32989239/74086005-ec180f80-4a8f-11ea-808a-7604d3ff86a4.png)
+
+![p2](https://user-images.githubusercontent.com/32989239/74086024-0ce06500-4a90-11ea-94a4-129d8ebe02cf.png)
+
 
 
 Two examples of the mentioned dictionary are given below in order to create a more solid understanding
@@ -70,6 +74,8 @@ delete these spaces before you paste it into your code. The nested dictionary (T
 “information” tag) stores additional information about maze’s length and width. Also, it holds the
 agent’s start location and maze’s end location. Maze 2 example is visualized below, where W means
 walls, S means start location, E means end location.
+
+![p3](https://user-images.githubusercontent.com/32989239/74086027-1669cd00-4a90-11ea-88bf-aef4e38666c5.png)
 
 
 Start with the provided maze examples and try to create a searching algorithm that takes the agent from S
