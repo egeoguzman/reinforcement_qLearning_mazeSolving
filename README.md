@@ -79,21 +79,8 @@ so I expect to see different search algorithms in different homeworks. If everyo
 algorithm that means something inappropriate is going on. You can implement the breadth first search
 [1], Q learning [2], A* algorithm [3], Dijsktra’s algorithm [4] or you can use a simple brute force
 algorithm. Searching algorithm choice is up to you, just don’t use a 3rd party library. After searching, your
-algorithm should output the path it found (It doesn’t need to find the shortest path). For the second maze
-example, your output should look like this:
+algorithm should output the path it found (It doesn’t need to find the shortest path).
 
-
-That path can be visualized as below:
-
-**References:**
-
-[1]: https://www.geeksforgeeks.org/shortest-distance-two-cells-matrix-grid/
-
-[2]: [http://mnemstudio.org/path-finding-q-learning-tutorial.htm](http://mnemstudio.org/path-finding-q-learning-tutorial.htm)
-
-[3]: https://www.geeksforgeeks.org/a-search-algorithm/
-
-[4]: https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/
 
 
 
