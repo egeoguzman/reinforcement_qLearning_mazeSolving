@@ -1,4 +1,5 @@
 # Reinforcement Q-Learning Alg Maze Solving
+#(Project requires update. Take a look :))
 
 **Objective** : You’re going to implement an agent that can solve a given maze. Maze information is stored
 in a dictionary structure. Maze consists of cells and cells will be stored as tuples.
